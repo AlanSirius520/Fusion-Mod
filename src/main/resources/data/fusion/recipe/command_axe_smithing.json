@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "fusion:command_book"
+  },
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "fusion:command_axe"
+  },
+  "template": {
+    "item": "fusion:amulet"
+  }
+}

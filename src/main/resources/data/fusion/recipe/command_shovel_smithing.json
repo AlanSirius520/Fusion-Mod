@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "fusion:command_book"
+  },
+  "base": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "fusion:command_shovel"
+  },
+  "template": {
+    "item": "fusion:amulet"
+  }
+}

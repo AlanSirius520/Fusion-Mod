@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:mace"
+    },
+    {
+      "item": "fusion:it_mod"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "fusion:light_hammer"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "fusion:amulet"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "fusion:command_book"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:bone"
+  },
+  "base": {
+    "item": "leather_boots"
+  },
+  "result": {
+    "count": 1,
+    "id": "fusion:lang_boots"
+  },
+  "template": {
+    "item": "fusion:fusion_book"
+  }
+}

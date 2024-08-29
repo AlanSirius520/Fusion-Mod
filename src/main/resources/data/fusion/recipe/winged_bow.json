@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_block"
+    },
+    "Y": {
+      "item": "minecraft:feather"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "L": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "YLS",
+    "L#S",
+    "YLS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fusion:winged_bow"
+  }
+}

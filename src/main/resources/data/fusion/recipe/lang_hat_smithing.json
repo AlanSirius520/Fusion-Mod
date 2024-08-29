@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:bone"
+  },
+  "base": {
+    "item": "leather_helmet"
+  },
+  "result": {
+    "count": 1,
+    "id": "fusion:lang_helmet"
+  },
+  "template": {
+    "item": "fusion:fusion_book"
+  }
+}

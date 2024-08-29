@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fusion:iron_bane"
+    },
+    {
+      "item": "fusion:fire_mod"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "fusion:fire_bane"
+  }
+}

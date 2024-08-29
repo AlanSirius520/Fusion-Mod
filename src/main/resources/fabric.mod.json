@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "fusion",
+  "version": "${version}",
+  "name": "Fusion",
+  "description": "There is nothing...",
+  "authors": ["AlanSirius"],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/fusion/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.alan.fusion.client.FusionClient"
+    ],
+    "main": [
+      "net.alan.fusion.Fusion"
+    ]
+  },
+  "mixins": [
+    "fusion.mixins.json",
+    {
+      "config": "fusion.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

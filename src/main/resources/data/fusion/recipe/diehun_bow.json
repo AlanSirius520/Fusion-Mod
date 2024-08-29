@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "item": "fusion:it_mod"
+    }
+  },
+  "pattern": [
+    "ALS",
+    "LWS",
+    "ALS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fusion:diehun_bow"
+  }
+}

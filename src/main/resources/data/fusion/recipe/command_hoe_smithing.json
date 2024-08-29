@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "fusion:command_book"
+  },
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "fusion:command_hoe"
+  },
+  "template": {
+    "item": "fusion:amulet"
+  }
+}

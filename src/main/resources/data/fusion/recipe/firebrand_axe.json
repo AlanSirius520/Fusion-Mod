@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "fusion:fire_mod"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "FF ",
+    "FS ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fusion:firebrand_axe"
+  }
+}
